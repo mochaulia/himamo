@@ -1,0 +1,11 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^email\.himamo\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.email\.himamo\.com$
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^/?$ "http\:\/\/himamo\.com\:2095\/3rdparty\/roundcube\/\?_task\=mail" [R=301,L]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# This domain inherits the “PHP” package.
+# php -- END cPanel-generated handler, do not edit

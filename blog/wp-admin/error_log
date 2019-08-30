@@ -1,0 +1,9 @@
+[27-May-2017 00:20:26 UTC] WordPress database error Specified key was too long; max key length is 1000 bytes for query CREATE INDEX disqus_dupecheck ON `wpwj_commentmeta` (meta_key, meta_value(11)); made by require_once('wp-admin/admin.php'), do_action('comments_page_disqus'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, dsq_manage, dsq_install, dsq_install_database
+[01-Aug-2017 20:20:30 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kominfo/public_html/blog/wp-admin/themes.php on line 270
+[01-Aug-2017 20:20:39 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kominfo/public_html/blog/wp-admin/themes.php on line 270
+[01-Aug-2017 20:20:41 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kominfo/public_html/blog/wp-admin/themes.php on line 270
+[01-Aug-2017 20:20:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kominfo/public_html/blog/wp-admin/themes.php on line 270
+[01-Aug-2017 20:20:43 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kominfo/public_html/blog/wp-admin/themes.php on line 270
+[01-Aug-2017 20:20:50 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/kominfo/public_html/blog/wp-admin/themes.php on line 270
+[01-Aug-2017 20:21:11 UTC] PHP Fatal error:  Function name must be a string in /home/kominfo/public_html/blog/wp-admin/themes.php on line 270
+[01-Aug-2017 20:21:17 UTC] PHP Fatal error:  Function name must be a string in /home/kominfo/public_html/blog/wp-admin/themes.php on line 270

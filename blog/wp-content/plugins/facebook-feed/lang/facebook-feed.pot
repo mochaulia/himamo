@@ -1,0 +1,485 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: facebook-feed\n"
+"POT-Creation-Date: 2016-12-27 18:26+0530\n"
+"PO-Revision-Date: 2016-12-27 18:28+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: D:\\xampp\\htdocs\\wordpress\\wp-content\\plugins"
+"\\facebook-feed\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\wordpress\\wp-content\\plugins"
+"\\facebook-feed\n"
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:76
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:516
+msgid "View on Facebook"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:77
+msgid "Read More"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:78
+msgid "Read Less"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:142
+msgid "Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:147
+msgid "FaceBook Feed Plugin"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:157
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:192
+msgid "General Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:159
+msgid "Design Customization"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:161
+msgid "Text Customization"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:163
+msgid "Custom Script"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:165
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:619
+msgid "Shortcode Attributes"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:170
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:765
+msgid "FAQ"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:172
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:782
+msgid "Support"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:174
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:799
+msgid "Get the Premium Version"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:197
+msgid "Your Facebook Page ID"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:199
+msgid "This is the ID of your Facebook page. Example Webriti, Adidas etc."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:205
+msgid "Date format"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:218
+msgid "Select date format. For eg January 1, 2015"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:223
+msgid "Number of posts to display"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:226
+msgid "Enter the number of posts to fetch and display in your feed. eg : 10"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:231
+msgid "Cache duration"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:254
+msgid ""
+"The system will store the results in cache for the specified duration. This "
+"will speed up the page load. Select none to disable cache."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:259
+msgid "Open link in new tab"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:261
+msgid "Checked it to open any link in new tab"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:270
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:482
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:550
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:601
+msgid "Save Changes"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:294
+msgid "Author Text Customization"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:301
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:410
+msgid "Text color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:303
+msgid "Choose color of author name"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:308
+msgid "Author text size"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:334
+msgid "Select author text size"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:339
+msgid "Feed line height"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:363
+msgid "Select line height"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:368
+msgid "Image border"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:373
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:386
+msgid "px"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:376
+msgid ""
+"Select image border width and image border color will be same as the text "
+"color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:381
+msgid "Feed seprator"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:389
+msgid ""
+"Select feed seprator width. Select none to hide the separator. <br>The color "
+"will be same as img border"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:396
+msgid "Post Customization"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:403
+msgid "Character limit"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:405
+msgid ""
+"Choose post character limit. for eg. 20, 30 etc.  A read more link will be "
+"added if posts have more characters. Leave blank to disable post character "
+"limiting"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:412
+msgid "Choose your post text color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:417
+msgid "Background color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:419
+msgid "Choose your post background color"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:424
+msgid "Text size"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:448
+msgid "Select post text size. for eg. 14px"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:453
+msgid "Font weight"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:456
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:468
+msgid "Inherit"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:457
+msgid "Normal"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:458
+msgid "Bold"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:460
+msgid "Select post text weight. for eg. \"bold\""
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:465
+msgid "Text alignment"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:469
+msgid "Left"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:470
+msgid "Center"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:471
+msgid "Right"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:472
+msgid "Justify"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:474
+msgid "Select post text alignment. for eg. 'left'"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:504
+msgid "Feed Text Customization"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:509
+msgid "Default text"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:510
+msgid "Custom text"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:520
+msgid "This text is displayed after every post."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:526
+msgid "Read more text"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:530
+msgid "This text is used to display the complete post."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:536
+msgid "Read less text"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:540
+msgid "This text is used to limit the post text."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:573
+msgid "Custom CSS"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:580
+msgid "<strong>Note:</strong> Only enter CSS without style tag."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:586
+msgid "Custom JS"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:593
+msgid "<strong>Note:</strong> Enter JS without script tag."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:622
+msgid "How to use:"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:623
+msgid ""
+"<strong>Note:</strong> All the shortcode attributes that are used for size "
+"having the unit in a pixel."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:627
+msgid "Shortcode Attribute"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:628
+msgid "Value (for Eg)"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:629
+msgid "Uses"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:636
+msgid "This is Facebook page id that you want to display on page/posts."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:641
+msgid "No. of feed that you want to display for Facebook page."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:646
+msgid ""
+"This is use for browsing the URL either in the same tab or new tab. Use 1 "
+"for new tab otherwise 0."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:651
+msgid ""
+"Format of date that you want to display on Facebook page feed. In this case "
+"date will look <strong>January 1, 2015</strong>.<a href='http://php.net/"
+"manual/en/datetime.formats.date.php' target='_blank'><strong> link</strong></"
+"a> to get different format of date."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:656
+msgid "Use for set Facebook page title size."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:661
+msgid "Use for display Facebook page title color."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:666
+msgid ""
+"To display border for Facebook page image otherwise use <strong>none</"
+"strong>."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:671
+msgid ""
+"Line to differentiate among feeds. Use <strong>none</strong> to hide the "
+"border."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:676
+msgid ""
+"Border display for media (photo). Use <strong>none</strong> to hide the "
+"border."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:681
+msgid ""
+"Set the limit of feed`s message/story text. If left blank then show full "
+"text otherwise show text according to given limit."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:686
+msgid ""
+"Set the color of feed`s message/story text. If left blank then default color "
+"of theme will be display."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:691
+msgid ""
+"Set the background color of feed`s message/story text. If left blank then no "
+"background will be display."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:696
+msgid ""
+"Set the text weight of feed`s message/story text. If left blank then weight "
+"inherited from used theme."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:701
+msgid ""
+"Set the text size of feed`s message/story text. If left blank then size "
+"inherited from used theme."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:706
+msgid ""
+"Set the text align of feed`s message/story text. Other align are left/right/"
+"center/justice. If left blank then left(default) will apply."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:711
+msgid ""
+"This is custom label for Facebook page feed link. You can use own label like "
+"<strong>move to Facebook feed.</strong>"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:716
+msgid ""
+"This is custom label that act as controller of limited display text. You can "
+"use own label like <strong>more text.</strong>"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:721
+msgid ""
+"This is custom label that act as controller of full display text. You can "
+"use own label like <strong>less text.</strong>"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:726
+msgid ""
+"This is custom label that toggle a box containning social media icon. You "
+"can use own label like <strong>social media link.</strong> "
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:770
+msgid "1. Enter your Facebook Page ID in the Box Above."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:771
+msgid ""
+"2. Use the shortcode [facebook-feed] to display the feed on any Page / Post"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:787
+msgid ""
+"1. For any queries contact us via the <a href='http://webriti.com/support/"
+"categories/facebook-feed-pro' target='_blank'>support forums.</a>"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:804
+msgid ""
+"Upgrade to the premium version and get the follwing additional features."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:807
+msgid "1. Image and Video Support"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:808
+msgid "2. Light Box Support"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:809
+msgid ""
+"3. Feed Filtering. You can filter the feed by post type. Eg: Only show "
+"Photos, Or Hide Events etc"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:810
+msgid ""
+"4. Three type of layout is supported by this plugin, i.e thumbnail, "
+"halfwidth, fullwidth. Use any as your need."
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed-settings.php:813
+msgid ""
+"Check out the premium version <a href = 'http://webriti.com/facebook-feed/' "
+"target = '_blank'> here"
+msgstr ""
+
+#: D:\xampp\htdocs\wordpress\wp-content\plugins\facebook-feed/facebook-feed.php:25
+msgid "Webriti Facebook Feed"
+msgstr ""

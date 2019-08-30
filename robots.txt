@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /assets
+Disallow: /system
+Disallow: /slider
+User-agent: Mediapartners-Google
+Allow: /
+User-agent: Adsbot-Google
+Allow: /
+User-agent: Googlebot-Image
+Allow: /
+User-agent: Googlebot-Mobile
+Allow: /
+Sitemap: https://himamo.com/sitemap.xml

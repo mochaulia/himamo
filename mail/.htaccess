@@ -1,0 +1,15 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^mail\.himamo\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.mail\.himamo\.com$
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^/?$ "http\:\/\/himamo\.com\:2095\/3rdparty\/roundcube\/\?_task\=mail" [R=301,L]
+
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php56” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddType application/x-httpd-ea-php56 .php .php5 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
